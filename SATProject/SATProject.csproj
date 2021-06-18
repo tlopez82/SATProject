@@ -193,6 +193,25 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="_Archive\401.html" />
+    <Content Include="_Archive\404.html" />
+    <Content Include="_Archive\500.html" />
+    <Content Include="_Archive\assets\demo\chart-area-demo.js" />
+    <Content Include="_Archive\assets\demo\chart-bar-demo.js" />
+    <Content Include="_Archive\assets\demo\chart-pie-demo.js" />
+    <Content Include="_Archive\assets\demo\datatables-demo.js" />
+    <Content Include="_Archive\assets\img\error-404-monochrome.svg" />
+    <Content Include="_Archive\charts.html" />
+    <Content Include="_Archive\css\styles.css" />
+    <Content Include="_Archive\index.html" />
+    <Content Include="_Archive\js\datatables-simple-demo.js" />
+    <Content Include="_Archive\js\scripts.js" />
+    <Content Include="_Archive\layout-sidenav-light.html" />
+    <Content Include="_Archive\layout-static.html" />
+    <Content Include="_Archive\login.html" />
+    <Content Include="_Archive\password.html" />
+    <Content Include="_Archive\register.html" />
+    <Content Include="_Archive\tables.html" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -251,6 +270,7 @@
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
     <Content Include="Views\Account\DisplayEmail.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
+    <Content Include="Views\Shared\_OriginalLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
